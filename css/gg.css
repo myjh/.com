@@ -1,5 +1,6 @@
 html, body {
     overflow-x: hidden;
+    background-color:lightblue;
 }
 
 html {
@@ -127,6 +128,7 @@ html {
 .box-top .nav_left {
     float: right;
     margin-right: .4rem;
+    background-color: lightblue;
 }
 
 .box-top .nav_left a {
